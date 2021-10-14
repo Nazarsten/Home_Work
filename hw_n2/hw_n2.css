@@ -1,0 +1,43 @@
+body{
+    font-family: sans-serif;
+    scroll-behavior: smooth;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+hr{
+    background-color: gold;
+    height: 5px;
+}
+h1{
+    text-align:center;
+}
+a:hover{
+    color: gold;
+
+}
+
+p{
+    text-align: justify;
+}
+li{
+    list-style: none;
+    border-left: none;
+}
+img{
+    border: 1px solid;
+    color:gold;
+    width: 435px;
+}
+h2.dec{
+    text-align:center;
+    background-color: gold;
+}
+.border{
+    border:1px;
+    border-style: solid;
+    border-color: gold;
+    width: max-content;
+    text-align: left;
+}

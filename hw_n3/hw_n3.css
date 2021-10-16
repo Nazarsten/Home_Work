@@ -24,9 +24,10 @@ a:hover{
     text-align: justify;
 }
 li{
-    margin-right: 10px;
+    margin-right: 20px;
     list-style: none;
     border-left: none;
+    text-align: justify;
 }
 
 
@@ -38,14 +39,23 @@ h2.dec{
     margin-right: 10px;
 }
 .item{
-    height: 380px;
-    width: 450px;
-    border: solid gold;
-    margin-right: 200px;
+    height: auto;
+    width: auto;
+    border: solid gold 1px;
+    margin-top: 70px;
+    margin-right: 800px;
     border-radius: 10px;
 }
 .wrap{
     display: flex;
     justify-content:space-between;
     align-items: center;
+}
+.list{
+    border: solid gold 1px;
+    border-radius: 5px;
+}
+.xxx{
+    height: auto;
+    width: auto;
 }

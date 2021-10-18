@@ -1,27 +1,25 @@
-body{
+body {
     font-family: sans-serif;
-    scroll-behavior: smooth;
+    text-align: justify;
+
 }
 a{
     text-decoration: none;
     color: black;
 }
-hr{
-    margin-left: 150px;
-    margin-right: 150px;
-    border-color: gold;
-    background-color: gold;
-    height:2px;
+.line{
+    display: flex;
+    border-bottom: 2px gold solid;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    width: max-content;
+    border-radius: 10px;
 }
-h1{
-    text-align:center;
-}
+
 a:hover{
     color: gold;
-
 }
-
-p{
+.text{
     margin-left: 15px;
     text-align: justify;
 }
@@ -30,25 +28,25 @@ li{
     list-style: none;
     border-left: none;
 }
-img{
-    margin-left: 60px;
-    border: 1px solid;
-    color:gold;
-    width: 435px;
-}
-h2{
-    margin-left: 10px;
-    margin-right: 10px;
-}
+
+
 h2.dec{
     text-align:center;
     background-color: gold;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
-.border{
-    margin-left: 60px;
-    border:1px;
-    border-style: solid;
-    border-color: gold;
-    width: max-content;
-    text-align: left;
+.item{
+    height: 380px;
+    width: 450px;
+    border: solid gold;
+    margin-right: 200px;
+    border-radius: 10px;
 }
+.wrap{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+

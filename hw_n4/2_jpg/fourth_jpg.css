@@ -1,0 +1,43 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+    border: black 2px solid;
+    padding: 10px;
+}
+
+
+.Top{
+    display: flex;
+    flex-direction: column;
+    row-gap: 2px;
+    height: 250px;
+    width: 100%;
+}
+.A{
+    width: 100%;
+    height: 50%;
+    background-color: plum;
+}
+.content{
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    column-gap:2px;
+}
+.B\.1{
+    height: 100%;
+    width:80% ;
+    background-color: darkolivegreen;
+
+}
+.B\.2{
+    height: 100%;
+    width: 20%;
+    background-color: cornflowerblue;
+}
+.bottom{
+    width: 100%;
+    height: 150px;
+    background-color: cadetblue;
+}

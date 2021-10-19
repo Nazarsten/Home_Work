@@ -1,0 +1,30 @@
+
+.main{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 100%;
+
+}
+.mainwidget{
+    width: 100%;
+    height: 250px;
+    background-color: darkblue;
+
+}
+.widgets{
+    width: 50%;
+    height: 250px;
+    background-color: blue;
+}
+.widgetsbox{
+    display: flex;
+    column-gap: 20px;
+    margin: 10px 0px;
+}
+.contact{
+    height: 500px;
+    width: 100%;
+    background-color: darkblue;
+
+}

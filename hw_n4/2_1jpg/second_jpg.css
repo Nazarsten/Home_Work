@@ -1,0 +1,45 @@
+.wrapfirst {
+    height: 800px;
+    background-color: white;
+    display: flex;
+    padding: 10px;
+    box-sizing: border-box;
+    column-gap: 20px;
+}
+.header{
+    height: 200px;
+    background-color: plum;
+    margin: 10px;
+}
+.footer{
+    height: 200px;
+    background-color: lightblue;
+    margin: 10px;
+}
+
+
+
+.menu{
+    height: 100%;
+    width: 20%;
+    background-color: darkcyan;
+}
+.wrapsecond{
+    height: 100%;
+    width: 100%;
+    background-color: cornflowerblue;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+
+
+}
+
+.post{
+    height: 50% ;
+    width: 90%;
+    background-color: azure;
+    box-sizing: border-box;
+    margin: 10px;
+
+}

@@ -1,0 +1,47 @@
+.wrapper{
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+}
+.height150{
+    height: 150px;
+    width: 100%;
+    border-radius: 15px;
+}
+.height700{
+    height: 700px;
+    border-radius: 15px;
+}
+.backcolor{
+    border-radius: 15px;
+    background-color: white;
+}
+.header{
+    background-color: pink;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+    column-gap: 15px;
+}
+.sidebar{
+    background-color: green;
+    width:20% ;
+}
+.mainmenu{
+    box-sizing: border-box;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+    justify-content: space-around;
+    background-color: cornflowerblue;
+    width: 80%;
+}
+.footer{
+    background-color: darkcyan;
+}
+.post1{
+    background-color: white;
+}

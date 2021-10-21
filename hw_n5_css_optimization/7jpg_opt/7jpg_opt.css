@@ -1,0 +1,33 @@
+.width100{width: 100%}
+.backcolor{
+    background-color: silver;
+    border-radius: 15px;
+}
+.displayflex{
+    display: flex
+}
+.height200{
+    height: 200px;
+}
+.wrapper{
+    box-sizing: border-box;
+    flex-direction: column;
+    row-gap: 15px;
+}
+.header{
+    flex-direction: row;
+    column-gap: 15px;
+}
+.box_in_header{
+    width: 50%;
+}
+.content{
+    height: 600px;
+}
+.footer{
+    flex-direction: row;
+    column-gap: 15px;
+}
+.box_in_footer{
+    width: 33.33%;
+}

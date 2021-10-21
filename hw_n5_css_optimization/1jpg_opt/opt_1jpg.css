@@ -1,0 +1,24 @@
+.height80{
+    height: 700px;
+    border-radius: 15px;
+}
+.backcolor{
+    background-color: cornflowerblue;
+}
+.header_blue{
+    width: 100%;
+    height: 300px;
+    border-radius: 15px;
+}
+.big_and_small_content{
+    margin-top: 15px;
+    display: flex;
+    flex-direction:row ;
+    column-gap: 15px;
+}
+.small_box{
+    width: 20%;
+}
+.big_box{
+    width: 80%;
+}

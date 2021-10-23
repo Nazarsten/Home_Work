@@ -1,0 +1,38 @@
+@media (max-width: 480px) {
+    .content_with_4photo{
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        row-gap: 30px;
+        margin: 0 auto;
+    }
+    .content_with_top_sellers{
+        align-items: center;
+        flex-direction: column;
+        row-gap: 30px;
+    }
+    .photo{
+       margin: 0 auto;
+        height: 150px;
+        width: 150px;
+    }
+    .about_top_seller{
+        margin-top:10px;
+    }
+
+    .Border{
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+    }
+    .border2{
+        width: 90%;
+    }
+    h1{
+        text-align: center;
+    }
+    .text{
+        text-align: center;
+    }
+}
+

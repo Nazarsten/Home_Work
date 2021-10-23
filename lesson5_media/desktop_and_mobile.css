@@ -1,0 +1,85 @@
+.flex_wrap{
+    flex-wrap: wrap;
+}
+.display_flex{
+    display: flex;
+}
+.fle_direction_row{
+    flex-direction: row;
+}
+
+.fle_direction_column{
+    flex-direction: column;
+}
+.margin_0_auto{
+    margin: 0 auto;
+}
+.content_with_4photo{
+    column-gap: 30px;
+    justify-content: center;
+}
+.background_color_royable{
+    background-color: royalblue;
+}
+.background_color_hineydew{
+    background-color: honeydew;
+}
+.photo{
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+}
+.text{
+    min-width:200px;
+    height: 20px;
+    text-align: center;
+}
+.shortdiscription{
+    height: 20px;
+    width: 100%;
+}
+.Border{
+    width: 70%;
+    padding: 30px;
+    border: 2px solid deepskyblue;
+    border-radius: 15px;
+    row-gap: 20px;
+}
+.info_about{
+    justify-content: center;
+    row-gap: 20px;
+}
+.content_with_top_sellers{
+    column-gap: 50px;
+    row-gap: 20px;
+    justify-content: center;
+    padding: 50px;
+}
+.topseller{
+    width: 90%;
+    height: 150px;
+    border-radius: 50%;
+}
+.about_top_seller{
+    box-sizing: border-box;
+    padding: 10px;
+    width: 200px;
+    height: 300px;
+    row-gap: 10px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    border: 2px solid  deepskyblue;
+}
+.tex1{
+    text-align: end;
+}
+.howerborder:hover{
+    border: 2px solid black;
+}
+.border2{
+    width: 74%;
+    border-radius: 30px;
+    justify-content: center;
+}
+

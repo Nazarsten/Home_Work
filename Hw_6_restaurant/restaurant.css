@@ -1,0 +1,170 @@
+*{
+    margin: 0 auto;
+}
+.wrap{
+    max-width:1440px;
+    height: 800px;
+    background:url("hero image.jpg") no-repeat;
+}
+.display_flex{
+    display: flex;
+}
+.flex_direction_row{
+    flex-direction: row;
+}
+.flex_direction_column{
+    flex-direction: column;
+}
+.justify_content_center{
+    justify-content: center;
+}
+.text_align_center{
+    text-align: center;
+}
+.align_items_center{
+    align-items: center;
+}
+.header{
+    width: 100%;
+}
+.logo{
+    margin-top: 45px;
+    margin-left: 165px;
+}
+.burger_menu{
+    display: none;
+}
+.menushka{
+    width: 31px;
+    height: 2px;
+    background-color: #FF7400;
+}
+.navbar{
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    margin-right: 0px;
+    box-sizing: border-box;
+    padding:19px 15px 26px 0px;
+    margin-top: 55px;
+    height: 51px;
+    border-right: 2px solid white ;
+    text-decoration: none;
+    column-gap: 30px;
+}
+.us_contact{
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    width: 154px;
+    height: 63px;
+    margin-top: 45px;
+    margin-left: 34px;
+}
+
+.phone_numder{
+    align-items: center;
+    column-gap: 10px;
+}
+.booking_text p{
+    width: 130px;
+    font-size:14px;
+}
+.booking_table{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 59px;
+    margin-left:45px;
+    font-size: 14px;
+    box-sizing: border-box;
+    width: 157px;
+    height: 47px;
+    padding: 14px 19px;
+    background-color:#FF7400 ;
+}
+.box {
+    margin-left: 0;
+    margin-right: 184px;
+}
+.text h1{
+    margin-left:175px;
+
+}
+.text h2{
+    margin-left:190px;
+    margin-top: 200px;
+}
+.text_adaptive{
+    display: none;
+    margin-left: 15px;
+    margin-top: 200px;
+}
+h2{font-family: 'Tinos',sans-serif;
+    font-size: 50px;
+    color: #D67E35;
+}
+h1{
+    font-family: 'Tinos',sans-serif;
+    font-size: 80px;
+    color: #D67E35;
+}
+h3{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    color: white;
+}
+.decor_for_home_words{
+    font-size: 18px;
+    width: 340px;
+    height: 25px;
+    margin-left: 271px;
+    justify-content: flex-start;
+}
+.line{
+    width:62px;
+    height: 2px;
+    background-color: white;
+}
+.view_menu_button{
+    margin-left: 356px;
+    color: white;
+    font-weight: normal;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 21px;
+    font-size: 14px;
+    box-sizing: border-box;
+    width: 157px;
+    height: 47px;
+    padding: 14px 19px;
+    background-color:#FF7400 ;
+}
+.our_history{
+    max-width: 1440px;
+    height: 400px;
+    position: relative;
+}
+.our_values{
+    height: 328px;
+    row-gap: 30px;
+    column-gap:31px;
+    position: absolute;
+    top:-100px;
+    right:165px;
+    left: 165px;
+    flex-wrap: wrap;
+}
+.values{
+    box-shadow: 10px 5px 40px black;
+    width: 349px;
+    height: 328px;
+    background-color: white;
+}
+.values img{
+    margin-top: 20px;
+
+}
+.font_size26px{
+    font-size: 26px;
+}
+.spets_text{
+    color:  #BC9060;
+}
+

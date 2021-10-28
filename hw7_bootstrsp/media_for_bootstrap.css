@@ -1,0 +1,8 @@
+@media(max-width: 730px){
+    .text_welcome{
+        margin-left: 40px;
+    }
+    .menu_button_small{
+        margin-left:30px ;
+    }
+}

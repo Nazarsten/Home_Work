@@ -1,0 +1,116 @@
+*{
+  margin: 0 auto;
+}
+.btn-primary{
+    border: none;
+    outline: none;
+    background-color: #FF7400;
+    width: 157px;
+    height: 47px;
+}
+.wraper{
+   max-width:  1440px;
+    height: 800px;
+    background:url("hero image.jpg");
+}
+.navbar{
+    border-right:2px solid white;
+    height: 51px;
+}
+.menu{
+    color: white;
+}
+.text-white{
+    width: 154px;
+}
+.m-0{
+    width: 20px;
+    height: 20px;
+}
+.phone_and_booking{
+    margin-left: 0 ;
+}
+.icon-bar{
+    background-color: #FF7400;
+    width: 40px;
+    height: 5px;
+}
+.text_welcome{
+    margin-top: 200px;
+    margin-left: 175px;
+    color: #FF7400;
+}
+h3{
+    font-size: 50px;
+}
+h2{
+    font-size:80px;
+}
+h4{
+    color: white;
+    margin-left: 180px;
+    font-size: 18px;
+}
+.menu_button{
+    margin-top:21px ;
+    margin-left: 180px;
+    margin-bottom: 30px;
+}
+.small1{
+    font-size: 20px;
+}
+.small2{
+    font-size: 35px;
+}
+.small3{
+    font-size: 15px;
+    margin-left: 55px;
+}
+.text_welcome_small{
+    margin-top: 200px;
+    margin-left: 70px;
+    color: #FF7400;
+}
+.menu_button_small{
+    margin-top:200px ;
+    margin-left: 30px;
+}
+
+.values1{
+    width: 300px;
+    height: 300px;
+}
+.values2{
+    width: 300px;
+    height: 300px;
+
+}
+.values3{
+    width: 300px;
+    height: 300px;
+
+}
+.feikcontainer{
+    margin-top: 100px;
+    width: 100%;
+    height: 500px;
+
+}
+.box_position{
+    margin-top:100px;
+    width: 100%;
+    height: 300px;
+}
+img.plate{
+    margin-left: 110px;
+}
+.long_discription{
+    font-size: 15px;
+    color: #656363;
+}
+.short_discription{
+    font-size: 26px;
+}
+.another_color_word{
+   color: #BC9006;
+}

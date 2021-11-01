@@ -1,0 +1,96 @@
+@media (max-width: 1400px) {
+    .air_coller {
+        margin-left: 25px;
+    }
+
+    .discription_of_air_coller {
+
+        margin-left: 50px;
+    }
+
+    .long_discription_of_air_coller {
+        margin-left: 50px;
+    }
+
+    .header {
+        margin-left: 50px;
+    }
+
+    .air_coller {
+        width: 70%;
+        margin-top: 40px;
+    }
+
+    .burger_menu {
+        margin-right: 20px;
+    }
+
+    .icon-bar {
+        width: 40px;
+        height: 6px;
+        border-radius: 10px;
+    }
+
+    .multistage_photo {
+        width: 100%;
+    }
+
+    .modern_standarts_text {
+        width: 100%;
+        margin: 15px;
+        margin-top: 30px;
+    }
+
+    .modern_standarts_photo {
+        width: 100%;
+    }
+
+    .icon_hot_photo {
+        width: 100%;
+    }
+
+    .text_of_temperature {
+        margin-top: 40px;
+        margin-left: 50px;
+    }
+
+    .values {
+        height: 100px;
+
+        width: 100%;
+    }
+
+    .discription_body_photo {
+        width: 90%;
+    }
+
+    .bilder_photto {
+        margin: 10px;
+        width: 90%;
+    }
+
+    .first_row_values_of_buider
+    .second_row_values_of_buider {
+        display: flex;
+    }
+
+    .text_values {
+        width: 85%;
+        align-self: center;
+        margin-left: 20px;
+    }
+    .foter_content{
+        width: 85%;
+    }
+    .button_contact{
+        width: 150px;
+    }
+    .footer_text{
+        margin-left: 30px;
+    }
+    .long_discription_of_air_coller::before,
+    .long_discription_of_air_coller::after{
+        width: 150px;
+    }
+}
+

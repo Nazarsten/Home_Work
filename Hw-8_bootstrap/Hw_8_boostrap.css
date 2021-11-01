@@ -1,0 +1,139 @@
+.header{
+    margin-left: 120px;
+
+}
+
+.discription_of_air_coller{
+    max-width: 500px;
+    margin-top: 103px;
+    margin-left: 108px;
+}
+.long_discription_of_air_coller{
+    margin-left: 108px;
+    max-width: 515px;
+    margin-top:110px;
+    position: relative;
+}
+.logo{
+    width: 80px;
+    height: 40px;
+}
+.multistage_photo{
+    max-width: 700px;
+}
+.multi_text{
+    max-width: 477px;
+}
+.modern_standarts_text{
+    margin-top: 213px;
+    margin-left: 150px;
+    color:white;
+    width: 496px;
+}
+.modern_standarts_photo{
+   width:545px;
+}
+.moder_standarts{
+    margin-top: 66px;
+    width: 100%;
+    background-color: blue;
+}
+.about_temperature{
+    align-items: center;
+    width: 100%;
+}
+.icon_hot_photo{
+    width: 50%;
+    height: 200px;
+}
+.text_of_temperature{
+    margin-left: 50px;
+    margin-top: 200px;
+    max-width: 556px;
+    margin-bottom: 140px;
+    height: 396px;
+}
+.temperature_text_decor{
+    color: blue;
+}
+.values_body{
+    width:90%;
+    column-gap: 10px;
+    row-gap: 40px;
+}
+.values{
+    align-items: center;
+    box-sizing: border-box;
+    width: 300px;
+    height: 75px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow:   black ;
+}
+.bilder_photto{
+    margin-top: 15px;
+}
+.text_bilder{
+    text-align: center;
+}
+.text_values{
+    width: 394px;
+    height: 64px;
+    background-color: blue;
+    color: white;
+}
+.text_values{
+    margin-top: 20px;
+    border-radius: 15px;
+}
+.bilder_text {
+    margin-top: 20px;
+}
+.footer{
+    justify-content: center;
+    margin-top: 80px;
+}
+.foter_content{
+    width: 400px;
+}
+.footer_contact{
+    justify-content: space-around;
+    width: 100%;
+    border-top: 1px solid black;
+    height: 212px;
+    margin-top: 77px;
+}
+li{
+    list-style: none;
+}
+.width320px_in_footer{
+    width: 250px;
+}
+.button_contact{
+    position: relative;
+}
+.arrow{
+    width: 25%;
+    position: absolute;
+    top:45%;
+    left: 0px;
+}
+.icon-bar{
+    background-color: #C4C4C4;
+}
+.long_discription_of_air_coller::before,
+.long_discription_of_air_coller::after{
+    content: "";
+    height: 7px;
+    width: 227px;
+    background-color: #C4C4C4;
+    position: absolute;
+    display: block;
+    border-radius: 10px;
+}
+.long_discription_of_air_coller::before{
+    top:-55px;
+}
+.long_discription_of_air_coller::after{
+    bottom:-55px;
+}
